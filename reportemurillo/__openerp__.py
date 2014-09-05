@@ -15,7 +15,8 @@ follow the examples in others modules for reports
     'author': 'Alejandro Ramirez Murillo',
     'depends': ['base'],
     'data': [
-
+    		'report/report_view.xml',
+         'report/report_amurillo.xml',
     ],
     'demo': [],
     'installable': True,
